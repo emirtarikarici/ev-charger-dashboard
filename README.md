@@ -1,1 +1,1 @@
-# charger-dashboard
+# Electric Car Charger Dashboard
